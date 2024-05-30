@@ -1,3 +1,3 @@
 # hello-world
 
-This is a test for T1.
+This is a test for branch test/t1.
